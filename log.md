@@ -16,3 +16,12 @@
 
 **Thoughts**:  I feel good to be back in C , I almost forget everything , And so excited to got better  
 **Link(s) to work**: [C-in-20-Hours-codeSources](https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/e75d905b8d2e418002002e8491edbb8a25915f18)
+
+### Day 2: January 6, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Learn coding in C.
+
+**Thoughts**: learnt  absolute  value ,float rounding, function. math library, write  algorithm of pascal triangle(Java)
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/018af1d965ddf43cb45a7086e353a3ab571db4e3#diff-a5d0bba0cc2b654386544d019fbec064
