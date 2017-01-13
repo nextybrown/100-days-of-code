@@ -25,3 +25,12 @@
 **Thoughts**: learnt  absolute  value ,float rounding, function. math library, write  algorithm of pascal triangle(Java)
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/018af1d965ddf43cb45a7086e353a3ab571db4e3#diff-a5d0bba0cc2b654386544d019fbec064
+
+### Day 3: January 13, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Learn coding in C.
+
+**Thoughts**: back after busy days . I feel  late . work on loop , if statements
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/d4404af3a243552d9556fac6b608c4a1b2e7ba52
