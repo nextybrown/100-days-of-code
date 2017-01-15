@@ -43,3 +43,12 @@
 **Thoughts**: loops , Do while and while, little be diff  . happy to get the diff
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/d4404af3a243552d9556fac6b608c4a1b2e7ba52
+
+### Day 5: January 15, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Learn coding in C.
+
+**Thoughts**: loops , for , pointer
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/d4404af3a243552d9556fac6b608c4a1b2e7ba52
