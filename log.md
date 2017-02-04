@@ -74,7 +74,7 @@ fixing bugs in javascript
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/d4404af3a243552d9556fac6b608c4a1b2e7ba52
 
-### Day 7: January 27, 2017
+### Day 8: February 02, 2017
 ##### (delete me or comment me out)
 
 **Today's Progress**: #day8 Updating old Web app fixing bugs in javascript  
@@ -82,3 +82,13 @@ fixing bugs in javascript
 **Thoughts**: date manipulation
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]
+
+### Day 9: February 04, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Building skills in algorithm "C"
+**Thoughts**: working this two algorithms,limite of int
+ algo 1 https://projecteuler.net/problem=1 ==> succes
+ algo 2 https://projecteuler.net/problem=2 ==> Am stack because  of limite size of int
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/c922b064a018e83341e14e90f811d359020c5f2f
