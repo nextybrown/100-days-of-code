@@ -92,3 +92,13 @@ fixing bugs in javascript
  algo 2 https://projecteuler.net/problem=2 ==> Am stack because  of limite size of int
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/c922b064a018e83341e14e90f811d359020c5f2f
+
+### Day 10: February 05, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Building skills in algorithm "C"
+**Thoughts**: working this algorithms,limite of int
+
+ algo 2 https://projecteuler.net/problem=2 ==> resolved
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/c922b064a018e83341e14e90f811d359020c5f2f
