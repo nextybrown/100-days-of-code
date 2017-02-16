@@ -102,3 +102,18 @@ fixing bugs in javascript
  algo 2 https://projecteuler.net/problem=2 ==> resolved
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/C-in-20-Hours-codeSources/commit/c922b064a018e83341e14e90f811d359020c5f2f
+### Day 11: February 14, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: learn about intent  implicite and explicite
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]
+
+### Day 12: February 15, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: SharePreference App Setting
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/MovieFavorite/commit/b2cd04e2d63ac668e144db947ea0e50332579f79
