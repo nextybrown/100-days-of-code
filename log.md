@@ -126,3 +126,11 @@ fixing bugs in javascript
 debuging app
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/MovieFavorite/commit/b2cd04e2d63ac668e144db947ea0e50332579f79
+### Day 14: February 18, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: SharePreference App Setting
+Building app UI  activity 
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/MovieFavorite/commit/b2cd04e2d63ac668e144db947ea0e50332579f79
