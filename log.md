@@ -131,6 +131,20 @@ debuging app
 
 **Today's Progress**:Android certificate path
 **Thoughts**: SharePreference App Setting
-Building app UI  activity 
+Building app UI  activity
 
 **Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/MovieFavorite/commit/b2cd04e2d63ac668e144db947ea0e50332579f79
+
+### Day 15: February 20, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**:  work on android Activitylife cycle
+
+**Link(s) to work**: [C-in-20-Hours-codeSources]https://github.com/nextybrown/MovieFavorite/commit/b2cd04e2d63ac668e144db947ea0e50332579f79
+
+### Day 16: February 24, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: Android AsyncTaskLoader
