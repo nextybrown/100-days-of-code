@@ -148,3 +148,22 @@ Building app UI  activity
 
 **Today's Progress**:Android certificate path
 **Thoughts**: Android AsyncTaskLoader
+
+
+### Day 17: February 27, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: Android Preference
+
+### Day 18: February 28, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: Android Preference
+
+### Day 19: March 2, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**:Android certificate path
+**Thoughts**: Android Preference
