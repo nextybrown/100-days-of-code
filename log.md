@@ -167,3 +167,9 @@ Building app UI  activity
 
 **Today's Progress**:Android certificate path
 **Thoughts**: Android Preference
+
+### Day 20: March 3, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**: SQLite on Android..so excited and ready to go fare  
+**Link(s) to work**:
