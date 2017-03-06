@@ -173,3 +173,15 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**: SQLite on Android..so excited and ready to go fare  
 **Link(s) to work**:
+
+### Day 21: March 4, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**: How to use ContentProvider  
+**Link(s) to work**:
+
+### Day 22: March 6, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**:  Done with how to  user ContentProvider start start creating my own ContentProvider
+**Link(s) to work**:
