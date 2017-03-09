@@ -185,3 +185,14 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:  Done with how to  user ContentProvider start start creating my own ContentProvider
 **Link(s) to work**:
+### Day 23: March 7, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**:restart Working on sample movie app
+**Link(s) to work**:
+
+### Day 24: March 7, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**:AsyncLoader, sharedPreference   implemented in Sample movie app
+**Link(s) to work**:
