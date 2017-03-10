@@ -191,8 +191,14 @@ Building app UI  activity
 **Thoughts**:restart Working on sample movie app
 **Link(s) to work**:
 
-### Day 24: March 7, 2017
+### Day 24: March 8, 2017
 ##### (delete me or comment me out)
 **Today's Progress**:Android certificate path
 **Thoughts**:AsyncLoader, sharedPreference   implemented in Sample movie app
+**Link(s) to work**:
+
+### Day 25: March 9, 2017
+##### (delete me or comment me out)
+**Today's Progress**:Android certificate path
+**Thoughts**: Start new feature for sample movie app
 **Link(s) to work**:
