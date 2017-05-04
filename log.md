@@ -202,3 +202,27 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**: Start new feature for sample movie app
 **Link(s) to work**:
+
+### Day 26 to 30 : March 9 to April 22, 2017
+##### { this 5 days was twittered but not commited}
+**Today's Progress**:Android certificate path
+**Thoughts**: Wor on lot stuff ref( twittes)
+**Link(s) to work**:
+
+### Day 31 : Mais 1, 2017
+##### { this 5 days was twittered but not commited}
+**Today's Progress**:Android certificate path
+**Thoughts**: work on movie app
+**Link(s) to work**:
+
+### Day 32 : Mais 2, 2017
+##### { this 5 days was twittered but not commited}
+**Today's Progress**:Android certificate path
+**Thoughts**: work on project Stage two and summit
+**Link(s) to work**:
+
+### Day 33 : Mais 3, 2017
+##### { this 5 days was twittered but not commited}
+**Today's Progress**:Android certificate path
+**Thoughts**: work on project Stage two and summit fixing bugs
+**Link(s) to work**:
