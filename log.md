@@ -226,3 +226,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**: work on project Stage two and summit fixing bugs
 **Link(s) to work**:
+
+### Day 34: Mais 6, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**: Debuging Stockhawd
+**Link(s) to work**:
