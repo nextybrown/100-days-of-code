@@ -231,3 +231,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**: Debuging Stockhawd
 **Link(s) to work**:
+
+### Day 34: Mais 13, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Master/Detail flows
+**Link(s) to work**:
