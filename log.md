@@ -236,3 +236,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Master/Detail flows
 **Link(s) to work**:
+
+### Day 36: Mais 14, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:CReating Tab layout
+**Link(s) to work**:
