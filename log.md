@@ -241,3 +241,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:CReating Tab layout
 **Link(s) to work**:
+
+### Day 37: jully 29, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Creating Customs RatingBar
+**Link(s) to work**:
