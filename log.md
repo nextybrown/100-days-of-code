@@ -251,3 +251,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Sort order toggles with no success😬😬
 **Link(s) to work**:
+
+### Day 39: jully 31, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Sort order toggles Resolved😬😬
+**Link(s) to work**:
