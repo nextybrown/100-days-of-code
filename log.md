@@ -246,3 +246,8 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Creating Customs RatingBar
 **Link(s) to work**:
+
+### Day 38: jully 30, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Sort order toggles with no success😬😬
+**Link(s) to work**:
