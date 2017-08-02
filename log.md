@@ -256,3 +256,11 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Sort order toggles Resolved😬😬
 **Link(s) to work**:
+### Day 40: August 1, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:quiz set up
+**Link(s) to work**:
+### Day 41: August 2, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:creating ShapeDrawable
+**Link(s) to work**:
