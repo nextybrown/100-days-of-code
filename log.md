@@ -264,3 +264,11 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:creating ShapeDrawable
 **Link(s) to work**:
+### Day 42: August 3, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:creating custom ShapeDrawable in java code
+**Link(s) to work**:
+### Day 43: August 4, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Rocking with sharedPreferences
+**Link(s) to work**:
