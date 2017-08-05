@@ -272,3 +272,7 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Rocking with sharedPreferences
 **Link(s) to work**:
+### Day 44: August 5, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Rocking with Service and Notification & AlarmManager
+**Link(s) to work**:
