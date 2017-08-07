@@ -276,3 +276,7 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Rocking with Service and Notification & AlarmManager
 **Link(s) to work**:
+### Day 45: August 6, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Reading about Notification and sample code
+**Link(s) to work**:
