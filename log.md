@@ -280,3 +280,7 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Reading about Notification and sample code
 **Link(s) to work**:
+### Day 46: August 6, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:handling OnNewIntent in activity
+**Link(s) to work**:
