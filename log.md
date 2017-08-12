@@ -284,3 +284,15 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:handling OnNewIntent in activity
 **Link(s) to work**:
+### Day 47: August 8, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Notifiaction & pendingIntent
+**Link(s) to work**:
+### Day 48: August 11, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Exoplayer Fullscreen feature
+**Link(s) to work**:
+### Day 42: August 12, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:Material design work
+**Link(s) to work**:
