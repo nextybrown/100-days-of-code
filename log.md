@@ -296,7 +296,7 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Material design work
 **Link(s) to work**:
-### Day 50: August 13, 2017
+### Day 51: August 14, 2017
 **Today's Progress**:Android certificate path
-**Thoughts**:multiple Screen for bankingApp
+**Thoughts**:Using static factory pattern to create fragment instance
 **Link(s) to work**:
