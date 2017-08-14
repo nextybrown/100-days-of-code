@@ -292,7 +292,11 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Exoplayer Fullscreen feature
 **Link(s) to work**:
-### Day 42: August 12, 2017
+### Day 49: August 12, 2017
 **Today's Progress**:Android certificate path
 **Thoughts**:Material design work
+**Link(s) to work**:
+### Day 50: August 13, 2017
+**Today's Progress**:Android certificate path
+**Thoughts**:multiple Screen for bankingApp
 **Link(s) to work**:
