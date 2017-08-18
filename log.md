@@ -304,11 +304,11 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Exploring Exoplayer, Using Butterknife & Picasso Library
 **Link(s) to work**:
-### Day 53: August 15, 2017
+### Day 53: August 16, 2017
 **Today's Progress**:Android certificate path
 **Thoughts**:Continus Exploring Exoplayer
 **Link(s) to work**:
-### Day 54 and 55: August 16&17, 2017
+### Day 54 and 55: August 17&18, 2017
 **Today's Progress**:Android certificate path
 **Thoughts**:Exoplayer implemented w/ fullScreen video
 **Link(s) to work**:
