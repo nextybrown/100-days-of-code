@@ -312,3 +312,13 @@ Building app UI  activity
 **Today's Progress**:Android certificate path
 **Thoughts**:Exoplayer implemented w/ fullScreen video
 **Link(s) to work**:
+
+###Day 55 to 59 : August , 2017
+**Today's Work  but did't commit
+**Thoughts**: did a lot stuff , was doing angular for some
+**Link(s) to work**:
+
+###Day 60 : November3 , 2017
+**Today'sto work  fucos on gradle for android (- -) So happy to come back to this and not gonna miss any day no matter what
+**Thoughts**: how to set up gradle  and run task  
+**Link(s) to work**:
